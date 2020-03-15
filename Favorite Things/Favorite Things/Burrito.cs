@@ -9,7 +9,8 @@ namespace Favorite_Things
     { 
         Breakfast,
         Bean,
-        Fried
+        Fried,
+        Sushi
     }
     class Burrito
     {

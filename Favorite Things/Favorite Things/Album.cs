@@ -11,9 +11,9 @@ namespace Favorite_Things
         public string Artist { get; set; }
         public int NumberOfTracks { get; set; }
 
-        public void PlayRecord()
+        public void Play()
         {
-            Console.WriteLine($"You just dropped the needle on {Title} by {Artist}.");
+            Console.WriteLine($"You just started playing {Title} by {Artist}.");
         }
 
         public void ListenToTrack11()
