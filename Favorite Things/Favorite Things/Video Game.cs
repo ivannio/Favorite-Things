@@ -9,7 +9,8 @@ namespace Favorite_Things
         PC,
         Nintendo_Switch,
         Playstation,
-        Xbox
+        Xbox,
+        GBA
     }
     class Video_Game
     {

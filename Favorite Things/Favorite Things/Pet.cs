@@ -7,7 +7,8 @@ namespace Favorite_Things
     enum PetType
     { 
         Cat,
-        Dog
+        Dog,
+        Rock
     }
     class Pet
     {
